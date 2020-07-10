@@ -33,13 +33,13 @@ h1 {
         font-size: 3em;
     }
     .centered {
-        background: #cf615c;
+        background: #8a615f;
     }
 }
 /* desktop */
 @media screen and (min-width: 1200px) { 
     .centered {
-        background: #a36561;
+        background: #ff9205;
     }
     h1 {
         font-size: 4em;
